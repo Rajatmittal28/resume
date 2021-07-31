@@ -1,0 +1,54 @@
+{
+	"basics": {
+		"name": "Rajat Mittal",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kucp1087@iiitkota.ac.in",
+		"phone": "6377010439",
+		"summary": "I am a student of Indian Institute of Information technology, Kota(India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Dhanota(shahpura)",
+			"postalCode": "303804",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Rajatmittal28",
+				"url": "https://github.com/Rajatmittal28/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Rajat Mittal",
+				"url": "https://www.linkedin.com/in/rajat-mittal-226180191/"
+			},
+			{
+				"network": "Instagram",
+				"username": "_rajat_mittal_",
+				"url": "https://instagram.com/_rajat_mittal_/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08",
+		"endDate": "2023",
+		"gpa": "7.90(till 4th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript(beginner)", "React(beginner)", "C/C++", "python(beginner)","Data Structures & algorithm"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Lawn Tennis"]
+	}]
+}
+
